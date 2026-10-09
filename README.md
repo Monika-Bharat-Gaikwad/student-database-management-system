@@ -14,8 +14,7 @@ This project focuses on designing and implementing a relational database for a *
 * **Advanced Database Objects:** Database Views (`CREATE VIEW`), Performance Optimization (`CREATE INDEX`), and Automations (Stored Procedures).
 
 ## 🗄️ Database Schema & Relationships
-![ER Diagram](ER_diagram.png)
-
+![ER Diagram](er_diagram.png)
 The database consists of three interconnected tables:
 1. **`students1`**: Captures demographic details (ID, Name, Email, City, Course, and Admission Date).
 2. **`courses1`**: Holds curriculum structures and fee metrics.
